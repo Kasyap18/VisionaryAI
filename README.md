@@ -38,14 +38,15 @@ VisionaryAI is a web-based image classification application that uses deep learn
 1. Clone the repository:
 
    git clone https://github.com/your-username/VisionaryAI.git
+   
    cd VisionaryAI
    
-2. Install dependencies:
+3. Install dependencies:
 
    pip install -r requirements.txt
 
 
-3. Run the application:
+4. Run the application:
 
    streamlit run app.py
 
